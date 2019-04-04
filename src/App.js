@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
-import Card from "./componets/Card/Card";
-import Header from "./componets/Header/Header";
-import Nav from "./componets/Nav/Nav";
+import './index.css';
+import "./componets/Card/Card";
+import "./componets/Header/Header";
+import "./componets/Nav/Nav";
 
 class App extends Component {
   // Setting State
